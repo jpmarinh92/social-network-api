@@ -5,7 +5,7 @@
 ## Links
 
 - [Repo](https://github.com/jpmarinh92/social-network-api "Social Network API")
-- [Live view](https://drive.google.com/file/d/1Qxp6UzV-VNGcGiisdgceoJ889TNpotb-/view "Live View")
+- [Video](https://drive.google.com/file/d/1Qxp6UzV-VNGcGiisdgceoJ889TNpotb-/view "Live View")
 
 ## Built With
 
